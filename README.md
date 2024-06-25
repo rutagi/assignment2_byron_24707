@@ -8,8 +8,8 @@ This project is a starting point for a Flutter application.
 
 We have a Sign Up page, SIgn In page, and also a Calculator and we can navigate them using Tabs and also a Hamburger Menu
 
-On the Sign Up we have this U/I
-![Sign Up](https://github.com/rutagi/assignment2_byron_24707/assets/72490055/89e80365-2499-491b-a275-f65aa79f261f)
+On the Sign Up we have this U/I ![Sign Up](https://github.com/rutagi/assignment2_byron_24707/assets/72490055/89e80365-2499-491b-a275-f65aa79f261f)
+
 On the Sign In page we have this U/I
 ![Sign In](https://github.com/rutagi/assignment2_byron_24707/assets/72490055/19fcb10d-7156-4a31-ab90-fc52dd33a4ba)
 On the Calculator page we have this U/I
